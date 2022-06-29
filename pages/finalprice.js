@@ -33,7 +33,7 @@ export default function Listadd() {
   return (
     <div>
       <Head>
-        <title>total price for the added list</title>
+        <title>Total price for the added list</title>
         <meta name="description" content="total price for the added list" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
